@@ -397,7 +397,7 @@
     <!-- Button style for main contacts no account empty view. -->
     <style name="NoAccountViewButtonStyle" parent="@style/Widget.AppCompat.Button.Borderless">
         <item name="android:textSize">14sp</item>
-        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:textColor">#ffffff</item>
         <item name="android:fontFamily">sans-serif-medium</item>
         <item name="android:textAllCaps">true</item>
     </style>
