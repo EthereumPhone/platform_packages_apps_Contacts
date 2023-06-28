@@ -543,6 +543,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
 
     <!-- Style for item icon in navigation drawer -->
     <style name="DrawerItemIconStyle">
+        <item name="android:textColor">@color/primary_text_color</item>
         <item name="android:layout_width">@dimen/drawer_item_icon_size</item>
         <item name="android:layout_height">@dimen/drawer_item_icon_size</item>
         <item name="android:layout_gravity">center</item>
@@ -584,7 +585,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
         <item name="android:layout_gravity">center_vertical|start</item>
         <item name="android:paddingTop">12dp</item>
         <item name="android:paddingBottom">12dp</item>
-        <item name="android:textColor">@color/text_color_secondary</item>
+        <item name="android:textColor">@color/primary_text_color</item>
         <item name="android:textSize">14sp</item>
     </style>
 
@@ -595,5 +596,11 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
     <style name="DrawerHeaderItemStyle">
         <item name="android:paddingStart">@dimen/drawer_side_padding</item>
         <item name="android:paddingEnd">@dimen/drawer_label_header_end_padding</item>
+    </style>
+
+    <style name="DialogStyle">
+        <item name="android:textColor">@color/primary_text_color</item>
+        <item name="android:background">@drawable/fab_bg</item>
+        <item name="android:elevation">@dimen/design_fab_elevation</item>
     </style>
 </resources>

@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources>
-    <color name="fab_icon_color">#1E2730</color>
+    <color name="fab_icon_color">#ffffff</color>
     <color name="text_color">#ffffff</color>
     <color name="text_color_secondary">#9FA2A5</color>
     <color name="hint_text_color">#61FFFFFF</color>
@@ -67,10 +67,10 @@
     <color name="editor_icon_color">#BEBDBD</color>
 
     <!-- Color of disabled text and unfocused hint text inside the contact editor. 25% black. -->
-    <color name="editor_disabled_text_color">#24303D</color>
+    <color name="editor_disabled_text_color">#9FA2A5</color>
 
     <!-- Color of text on disabled link contacts button, 25% black. -->
-    <color name="disabled_button_text">#24303D</color>
+    <color name="disabled_button_text">#9FA2A5</color>
 
     <!-- Color of background of disabled link contacts button, 15% black. -->
     <color name="disabled_button_background">#9FA2A5</color>
@@ -181,7 +181,7 @@
 
     <!-- Color of action bar text. Ensure this stays in sync with packages/Telephony
     phone_settings_actionbar_text_color-->
-    <color name="actionbar_text_color">#000000</color>
+    <color name="actionbar_text_color">#FFFFFF</color>
     <!-- 54% black for icons -->
     <color name="actionbar_icon_color_grey">#8CFFFFFF</color>
     <!-- 87% black for actionbar text -->

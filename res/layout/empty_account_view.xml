@@ -13,6 +13,8 @@
         android:layout_height="wrap_content"
         android:scaleType="centerInside"
         android:adjustViewBounds="true"
+        app:tint="#ffffff"
+        android:tintMode="multiply"
         android:src="@drawable/accounts_empty"/>
 
     <TextView
