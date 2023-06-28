@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a291544-5cb9-48bd-b994-dc805337c2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/res/drawable/fab_bg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/drawer_primary_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/drawer_primary_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/edit_simple_spinner_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/edit_simple_spinner_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/floating_action_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/floating_action_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/select_dialog_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/select_dialog_item.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/values-night/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values-night/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/android/contacts/model/account/ExchangeAccountType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/android/contacts/model/account/ExchangeAccountType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

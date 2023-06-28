@@ -245,7 +245,7 @@
     <color name="navigation_drawer_background_color">#3C4958</color>
 
     <!-- Background color for the current selected item in the navigation drawer -->
-    <color name="drawer_selected_color">#1F1F1F</color>
+    <color name="drawer_selected_color">#3C4958</color>
 
     <!-- Highlight color used in places such as ripples -->
     <color name="control_highlight_color">#1AFFFFFF</color>
