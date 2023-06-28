@@ -90,7 +90,7 @@ public class ExchangeAccountType extends BaseAccountType {
 
         kind.fieldList = Lists.newArrayList();
         kind.fieldList.add(new EditField(StructuredName.PREFIX, R.string.name_prefix,
-                FLAGS_PERSON_NAME).setOptional(true));
+                FLAGS_PERSON_NAME).setOptional(true).);
         kind.fieldList.add(new EditField(StructuredName.FAMILY_NAME,
                 R.string.name_family, FLAGS_PERSON_NAME));
         kind.fieldList.add(new EditField(StructuredName.MIDDLE_NAME,
