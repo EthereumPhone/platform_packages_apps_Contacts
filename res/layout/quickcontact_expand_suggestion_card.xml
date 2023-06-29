@@ -149,6 +149,7 @@
                 style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textcolor="@color/text_color"
                 android:text="@string/quickcontact_suggestion_cancel_button"/>
 
             <Button
@@ -157,6 +158,7 @@
                 android:layout_height="wrap_content"
                 android:lines="1"
                 android:ellipsize="end"
+                android:textcolor="@color/text_color"
                 android:text="@string/quickcontact_suggestion_link_button"/>
         </LinearLayout>
     </LinearLayout>

@@ -29,7 +29,7 @@
     android:paddingEnd="24dp"
     android:paddingStart="24dp"
     android:paddingTop="8dp"
-    style="@style/DialogStyle">
+    >
 
     <TextView
         android:id="@+id/primary_text"
