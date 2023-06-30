@@ -24,7 +24,7 @@
         android:layout_gravity="center_horizontal"
         android:paddingTop="@dimen/empty_account_view_text_padding_top"
         android:text="@string/emptyAccount"
-        android:textcolor="#FFFFFF"
+        android:textColor="#FFFFFF"
         style="@style/EmptyStateTextStyle"/>
 
     <Button
@@ -33,6 +33,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="@string/menu_addToGroup"
-        android:textcolor="#FFFFFF"
+        android:textColor="#FFFFFF"
         style="@style/AddContactsButtonStyle"/>
 </LinearLayout>
