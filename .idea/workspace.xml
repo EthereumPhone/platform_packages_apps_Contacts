@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9a291544-5cb9-48bd-b994-dc805337c2d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/quickcontact_expand_suggestion_card.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/quickcontact_expand_suggestion_card.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/select_dialog_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/select_dialog_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/empty_account_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/empty_account_view.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/values-night/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values-night/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/styles.xml" afterDir="false" />
     </list>

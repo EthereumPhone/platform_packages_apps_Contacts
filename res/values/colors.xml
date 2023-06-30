@@ -91,12 +91,12 @@
     <color name="ripple_material_dark">#A0000000</color>
 
     <!-- Divider color for header separator -->
-    <color name="primary_text_color">#ffffff</color>
+    <color name="primary_text_color">#FFFFFF</color>
 
     <color name="secondary_text_color">@color/dialtacts_secondary_text_color</color>
 
     <!-- Text color for section header. -->
-    <color name="section_header_text_color">#ffffff</color>
+    <color name="section_header_text_color">#FFFFFF</color>
 
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">#24303D</color>
@@ -111,7 +111,7 @@
     <color name="dialtacts_primary_text_color">#ffffff</color>
 
     <!-- Secondary text color in the Phone app -->
-    <color name="dialtacts_secondary_text_color">#9FA2A5</color>
+    <color name="dialtacts_secondary_text_color">#1E2730</color>
 
     <color name="shortcut_overlay_text_background">#7FFFFFFF</color>
 
@@ -183,7 +183,7 @@
     phone_settings_actionbar_text_color-->
     <color name="actionbar_text_color">#FFFFFF</color>
     <!-- 54% black for icons -->
-    <color name="actionbar_icon_color_grey">#8CFFFFFF</color>
+    <color name="actionbar_icon_color_grey">#FFFFFF</color>
     <!-- 87% black for actionbar text -->
     <color name="actionbar_text_color_black">#FFFFFF</color>
     <!-- Solid grey for status bar overlay-->
@@ -196,7 +196,7 @@
 
     <color name="searchbox_hint_text_color">#66FFFFFF</color>
 
-    <color name="search_shortcut_icon_color">@color/dialtacts_theme_color</color>
+    <color name="search_shortcut_icon_color">#FFFFFF</color>
 
     <!-- Color of the background of the contact detail and editor pages -->
     <color name="background_primary">#9FA2A5</color>
