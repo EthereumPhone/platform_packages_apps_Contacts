@@ -15,6 +15,8 @@
  */
 package com.android.contacts.list;
 
+import android.graphics.Color;
+import android.graphics.PorterDuff;
 import android.accounts.Account;
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
@@ -456,6 +458,8 @@ public class DefaultContactBrowseListFragment extends ContactBrowseListFragment
         final View emptyAccountView = inflater.inflate(R.layout.empty_account_view, null);
         // Set image margins.
         final ImageView image = (ImageView) emptyAccountView.findViewById(R.id.empty_account_image);
+        //sets empty account image white
+        image.setColorFilter(Color.WHITE, PorterDuff.Mode.SRC_ATOP);
         final LayoutParams params = (LayoutParams) image.getLayoutParams();
         final int height = getResources().getDisplayMetrics().heightPixels;
         final int divisor =

@@ -25,4 +25,6 @@
     android:layout_height="@dimen/editor_min_line_item_height"
     android:paddingBottom="0dp"
     android:paddingTop="0dp"
+    android:backgroundTint="#FFFFFF"
+    android:tintMode="src_over"
     android:paddingEnd="@dimen/editor_spinner_right_padding_workaround"/>

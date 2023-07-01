@@ -111,7 +111,7 @@
     <color name="dialtacts_primary_text_color">#ffffff</color>
 
     <!-- Secondary text color in the Phone app -->
-    <color name="dialtacts_secondary_text_color">#1E2730</color>
+    <color name="dialtacts_secondary_text_color">#9FA2A5</color>
 
     <color name="shortcut_overlay_text_background">#7FFFFFFF</color>
 
@@ -199,7 +199,7 @@
     <color name="search_shortcut_icon_color">#FFFFFF</color>
 
     <!-- Color of the background of the contact detail and editor pages -->
-    <color name="background_primary">#9FA2A5</color>
+    <color name="background_primary">#1E2730</color>
     <color name="contact_all_list_background_color">#24303D</color>
 
     <!-- Text color used for character counter when the max limit has been exceeded -->

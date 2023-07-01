@@ -315,6 +315,7 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
 
+    <!-- Spinner s-->
     <style name="SpinnerButtonStyle" parent="@android:style/Widget.Material.Spinner.Underlined">
         <!-- When applying the spinner style to a Button we need to disable the shadow animation
             on the button since the spinner background is transparent. Otherwise the spinner-button
@@ -323,6 +324,7 @@
         <!-- We want our spinner's to use the same gravity as an EditText, so that they look
             visually consistent with other controls in our forms -->
         <item name="android:gravity">start|center_vertical</item>
+        <item name="android:backgroundTint=">#FFFFFF</item>
     </style>
 
     <style name="EditKindSeparatorTextViewStyle" parent="ContactListSeparatorTextViewStyle">
