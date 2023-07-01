@@ -537,6 +537,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
     <!-- Style for item in navigation drawer -->
     <style name="DrawerItemStyle">
         <item name="android:layout_width">match_parent</item>
+        <item name="android:tint">@color/text_color</item>
         <item name="android:layout_height">@dimen/drawer_item_fixed_height</item>
         <item name="android:layout_gravity">center_vertical</item>
         <item name="android:background">@drawable/drawer_item_background</item>
@@ -551,6 +552,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
     <!-- Style for item icon in navigation drawer -->
     <style name="DrawerItemIconStyle">
         <item name="android:textColor">@color/primary_text_color</item>
+        <item name="android:tint">@color/text_color</item>
         <item name="android:layout_width">@dimen/drawer_item_icon_size</item>
         <item name="android:layout_height">@dimen/drawer_item_icon_size</item>
         <item name="android:layout_gravity">center</item>
@@ -560,7 +562,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
 
     <!-- Style for primary item text in navigation drawer -->
     <style name="DrawerItemTextStyle" parent="DrawerTextStyle">
-        <item name="android:textColor">@color/primary_text_color</item>
+        <item name="android:textColor">@color/text_color</item>
         <item name="android:layout_width">0dip</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">1</item>
@@ -579,7 +581,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
     </style>
 
     <style name="DrawerItemTextActiveStyle">
-        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:textColor">@color/text_color</item>
         <item name="android:textStyle">bold</item>
     </style>
 
