@@ -21,10 +21,14 @@
 
     <ImageView
         android:id="@+id/icon"
+        android:tint="@color/text_color"
+        android:tintMode="src_over"
         style="@style/DrawerItemIconStyle"/>
 
     <TextView
         android:id="@+id/title"
+        android:tint="@color/text_color"
+        android:tintMode="src_over"
         style="@style/DrawerItemTextStyle" />
 
     <TextView

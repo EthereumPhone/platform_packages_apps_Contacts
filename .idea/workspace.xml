@@ -6,8 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9a291544-5cb9-48bd-b994-dc805337c2d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout-v23/edit_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout-v23/edit_spinner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/edit_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/edit_spinner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/quantum_ic_account_circle_vd_theme_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/drawable/quantum_ic_account_circle_vd_theme_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable/quantum_ic_settings_vd_theme_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/drawable/quantum_ic_settings_vd_theme_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/contact_editor_fields.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/contact_editor_fields.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/drawer_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/drawer_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/drawer_primary_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/drawer_primary_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/empty_account_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/empty_account_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

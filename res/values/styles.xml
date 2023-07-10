@@ -552,7 +552,7 @@ background and text color. See also android:style/Widget.Holo.TextView.ListSepar
     <!-- Style for item icon in navigation drawer -->
     <style name="DrawerItemIconStyle">
         <item name="android:textColor">@color/primary_text_color</item>
-        <item name="android:tint">@color/text_color</item>
+        <item name="android:tint">@color/primary_text_color</item>
         <item name="android:layout_width">@dimen/drawer_item_icon_size</item>
         <item name="android:layout_height">@dimen/drawer_item_icon_size</item>
         <item name="android:layout_gravity">center</item>

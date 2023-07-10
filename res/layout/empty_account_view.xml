@@ -14,7 +14,7 @@
         android:scaleType="centerInside"
         android:adjustViewBounds="true"
         android:tint="#FFFFFF"
-        android:tintMode="multiply"
+        android:tintMode="src_over"
         android:src="@drawable/accounts_empty"/>
 
     <TextView
