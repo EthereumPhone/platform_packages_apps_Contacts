@@ -64,8 +64,8 @@
     <application
         android:name="com.android.contacts.ContactsApplication"
         android:hardwareAccelerated="true"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:roundIcon="@drawable/ic_launcher_foreground"
         android:label="@string/applicationLabel"
         android:appCategory="social"
         android:supportsRtl="true"
