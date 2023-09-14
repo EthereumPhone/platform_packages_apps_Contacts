@@ -55,7 +55,7 @@
     <color name="expanding_entry_card_background_color">#24303D</color>
 
     <!-- Color of the margin for cards -->
-    <color name="card_margin_color">#252323</color>
+    <color name="card_margin_color">#24303D</color>
 
     <color name="call_arrow_green">#2aad6f</color>
     <color name="call_arrow_red">#ff2e58</color>
